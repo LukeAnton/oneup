@@ -1,5 +1,5 @@
 body {
-  background: url("../img/ute.jpg");
+  background: url("img/ute.jpg");
   background-size: 100%;
   background-position: top;
   -webkit-background-size: cover;
@@ -52,7 +52,7 @@ h3 {
   left: 0;
   right: 0;
   bottom: 0;
-  background: url("../img/Background.jpg");
+  background: url("img/Background.jpg");
   background-size: 100%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
