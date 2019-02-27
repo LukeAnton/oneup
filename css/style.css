@@ -1,0 +1,98 @@
+body {
+  background: url("../img/ute.jpg");
+  background-size: 100%;
+  background-position: top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+#signquote {
+  position: relative;
+  text-align: center;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 0;
+  background: rgba(226, 222, 191, 0.8);
+  padding: 2px 5px;
+  border-radius: 8px;
+  margin-right: 20px;
+  float: right;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+  color: white;
+  transition: 0.6s;
+}
+
+hr {
+  display: block;
+  margin-bottom: 0.5em;
+  margin: 15px 20px 10px 20px;
+  border-width: 2px;
+  border-radius: 25px;
+  border-color: rgba(0, 0, 0, 0.8);
+}
+
+h3 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#overlay {
+  position: fixed;
+  display: none;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url("../img/Background.jpg");
+  background-size: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  z-index: 1;
+  cursor: pointer;
+}
+
+#oimg {
+  width: 150px;
+  padding: 20px 10px;
+}
+
+img {
+width: 200px;
+padding: 2px 40px 200px;
+}
+
+.slinks {
+  float: right;
+}
+
+footer {
+  text-transform: uppercase;
+  font-size: 10px;
+  padding: 5px 30px;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  letter-spacing: .08em;
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  right: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.established {
+  float: left;
+}
+
+.message {
+  float: right;
+}
