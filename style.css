@@ -1,6 +1,7 @@
 body {
   background: url("img/ute.jpg");
-  background-size: 100%;
+  background-size: cover%;
+  background-repeat: no-repeat;
   background-position: top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -88,6 +89,7 @@ footer {
   left: 15px;
   right: 10px;
   font-family: 'Montserrat', sans-serif;
+  background-size: auto;
 }
 
 .established {
