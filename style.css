@@ -1,11 +1,12 @@
 body {
-  background: url("img/ute.jpeg");
+  background: url("img/ute.jpg");
   background-size: 100%;
   background-position: top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
 }
+
 
 #signquote {
   position: relative;
