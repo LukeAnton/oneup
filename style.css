@@ -1,12 +1,10 @@
 body {
-  background: url("img/ute.jpg");
-  background-size: cover%;
+  background: url("../img/ute.jpg");
+  background-size: auto;
   background-repeat: no-repeat;
-  background-position: top;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  margin: 0;
+  -webkit-background-size: auto;
+  -moz-background-size: auto;
+  -o-background-size: auto;
 }
 
 
