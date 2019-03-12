@@ -23,6 +23,11 @@ a {
   margin-right: 20px;
   float: right;
   font-family: 'Montserrat', sans-serif;
+} 
+
+main {
+  width: auto;
+  margin: 35px auto;
 }
 
 a:hover {
@@ -83,7 +88,6 @@ footer {
   background-color: rgba(0, 0, 0, 0.8);
   color: white;
   letter-spacing: .08em;
-  position: absolute;
   bottom: 15px;
   left: 15px;
   right: 10px;
